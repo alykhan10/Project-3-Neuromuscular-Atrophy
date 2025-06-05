@@ -1,6 +1,6 @@
-# Project #3. Temperature Regulation:
-# Discretizing a Digital Thermostat as a Dynamic Home Control System
+# Project #3: Neuromuscular Atrophy
+# Quantifying the Effect of Signaling Pathways on Post-Workout Fatigue
 
-● Specified output to be proportional to the accumulated error as derived from current and desired temperatures              
-● Incremented control effort required to supply voltage to the heating element by integrating error in time domain                  
-● Composed block diagrams in Simulink to manage heat-transfer logic for the PI controller above a set-point of 22°C
+● Configured 3 stimulus-delivering and recording electrodes to source electromyostimulation data from the forearm                   
+● Performed stochastic sampling via LoggerPro to obtain inverse variance for neuromuscular stimulation and fatigue                 
+● Sampled Creatine Kinase and C-Reactive Protein concentrations to establish a reduction in inflammatory response                
